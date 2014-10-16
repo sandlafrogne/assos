@@ -39,6 +39,9 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 * Interceptor : dans app.js, permet de rajouter un nom de serveur devant l'url relative afin de faire des appels API en relatif dans services et de compléter le nom du serveur distant à un seul endroit. 
 * appel html d'une page : localhost:5000/#/keyword
 * les animations des albums sont faites avec GreenSock. Il y a une partie .animation après le contrôleur.
+* Relancer automatiquement le serveur en cas de modification de code : 
+	* npm install -g nodemon
+	* lancement du serveur  : ***nodemon -e js,html, css index.js***
 
 ## Documentation 
 * [Angular](https://docs.angularjs.org/guide/)
