@@ -1,12 +1,12 @@
 # nodejsbasic
 ===========
 
-Projet vierge pour nodeJS
+Site des associations du val des Couleurs
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 ## Source de ce projet
-https://github.com/sandlafrogne/nodejsbasic.git
+https://github.com/sandlafrogne/assos.git
 
 ##Git Projet avec Source tree
 
